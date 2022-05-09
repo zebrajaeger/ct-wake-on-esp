@@ -1,5 +1,4 @@
 #include <WiFiManager.h>
-// #include "config.h"
 
 void wifiSetup(bool onDemand);
 
